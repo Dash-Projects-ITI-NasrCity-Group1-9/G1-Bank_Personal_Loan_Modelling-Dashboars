@@ -5,9 +5,9 @@ The file Bank.xls contains data on 5000 customers. The data include customer dem
 ### Mahmoud Ahmed Mahmoud Fadel <br />
 ### Abdelrahman Ahmad Saeed Abdelaziz <br />
 
-![](https://github.com/Dash-Projects-ITI-NasrCity-Group1-9/G1-Bank_Personal_Loan_Modelling/blob/main/Untitled.png)
-![]([https://github.com/Dash-Projects-ITI-NasrCity-Group1-9/G1-Bank_Personal_Loan_Modelling/blob/main/Untitled1.png)
-![]([https://github.com/Dash-Projects-ITI-NasrCity-Group1-9/G1-Bank_Personal_Loan_Modelling/blob/main/Untitled2.png)
-![]([https://github.com/Dash-Projects-ITI-NasrCity-Group1-9/G1-Bank_Personal_Loan_Modelling/blob/main/Untitled3.png)
-![](https://github.com/Dash-Projects-ITI-NasrCity-Group1-9/G1-Bank_Personal_Loan_Modelling/blob/main/Untitled4.png)
-![]([https://github.com/Dash-Projects-ITI-NasrCity-Group1-9/G1-Bank_Personal_Loan_Modelling/blob/main/Untitled5.png)
+# ![](https://github.com/Dash-Projects-ITI-NasrCity-Group1-9/G1-Bank_Personal_Loan_Modelling/blob/main/Untitled.png)
+# ![]([https://github.com/Dash-Projects-ITI-NasrCity-Group1-9/G1-Bank_Personal_Loan_Modelling/blob/main/Untitled1.png)
+# ![]([https://github.com/Dash-Projects-ITI-NasrCity-Group1-9/G1-Bank_Personal_Loan_Modelling/blob/main/Untitled2.png)
+# ![]([https://github.com/Dash-Projects-ITI-NasrCity-Group1-9/G1-Bank_Personal_Loan_Modelling/blob/main/Untitled3.png)
+# ![](https://github.com/Dash-Projects-ITI-NasrCity-Group1-9/G1-Bank_Personal_Loan_Modelling/blob/main/Untitled4.png)
+# ![]([https://github.com/Dash-Projects-ITI-NasrCity-Group1-9/G1-Bank_Personal_Loan_Modelling/blob/main/Untitled5.png)
